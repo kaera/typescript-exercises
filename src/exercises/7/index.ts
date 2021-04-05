@@ -121,4 +121,4 @@ function test5() {
 
 // In case if you are stuck:
 // https://www.typescriptlang.org/docs/handbook/basic-types.html#tuple
-// https://www.typescriptlang.org/docs/handbook/generics.html
+// https://www.typescriptlang.org/docs/handbook/2/generics.html
